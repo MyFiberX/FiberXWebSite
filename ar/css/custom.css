@@ -1,0 +1,19 @@
+/*html.sticky-header-active .header-logo {*/
+/*  width: 125px !important;*/
+/*}*/
+.plan-features {
+    text-align: left !important;
+    margin-left: 5px !important;
+    margin-right: 5px;
+}
+.plan-features ul li{
+    list-style: disc !important;
+    line-height: 2 !important;
+    font-weight: 500;
+}
+.pricing-table .plan{
+    height: 440px;
+}
+.rev_slider li.slide-overlay .slotholder:after{
+    opacity: 0.5 !important;
+}
